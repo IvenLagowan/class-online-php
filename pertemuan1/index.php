@@ -1,3 +1,4 @@
-<?php echo = "Latihan 1"
+<?php 
+echo  "Latihan";
 
 ?>
